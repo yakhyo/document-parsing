@@ -1,0 +1,7 @@
+PyMuPDF>=1.26.1 # fitz
+tqdm>=4.67.1
+pillow>=11.0.0
+torch
+transformers==4.52.4
+accelerate
+qwen-vl-utils[decord]==0.0.8
