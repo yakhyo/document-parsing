@@ -33,7 +33,7 @@ Make sure your environment supports GPU and you have access to:
 ### 1. Crop PDF Pages
 
     ```
-    python pdf_crop.py --pdf input.pdf --out cropped_images --start 199 --end 209
+    python pdf_crop.py --pdf input.pdf --out cropped_images --start 3
     ```
 
 - Crops selected pages from `input.pdf`
